@@ -37,7 +37,7 @@ body {
 }
 
 .nav-link.active {
-    border-bottom: 3px solid #fff;
+    background-color: 3px solid #fff;
 }
 
 .nav-link:hover {

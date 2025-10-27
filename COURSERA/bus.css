@@ -15,23 +15,19 @@ body {
 }
 
 .t1:hover{
-     background-color: white;
-     color:#000000;
+    border-bottom: 3px solid white;
 }
 
 .t2:hover{
-     background-color: white;
-     color:#000000;
+    border-bottom: 3px solid white;
 }
 
 .t3:hover{
-     background-color: white;
-     color:#000000;
+     border-bottom: 3px solid white;
 }
 
 .t4:hover{
-     background-color: white;
-     color:#000000;
+     border-bottom: 3px solid white;
 }
 
 .top-container {
